@@ -21,7 +21,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 2.0em;
+  font-size: 1.8em;
 }
 
 h2 {
@@ -38,7 +38,7 @@ a {
   text-decoration: none;
   color: #487530;
   transition: all .25s;
-  font-size: 1em;
+  font-size: .8em;
 }
 
 a:hover {
